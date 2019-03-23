@@ -1,0 +1,22 @@
+{
+  "name": "landingpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucascoorek/flexbox_mountain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucascoorek/flexbox_mountain/issues"
+  },
+  "homepage": "https://Lucascoorek.github.io/flexbox_mountain",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
